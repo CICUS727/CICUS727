@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CICUS727
+- 👀 Scripter
+- 🌱 Python, js
+- 📫 Discord: CICUS#3718
